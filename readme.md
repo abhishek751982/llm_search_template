@@ -53,7 +53,7 @@ pip install -r requirements.txt
 - Create .env file:
 ```bash
 OPENAI_API_KEY=your_api_key_here
-SEARCH_API_KEY=your_search_key
+SERPER_API_KEY=your_serper_key_here
 ```
 4. **Running the System**
 ```bash
